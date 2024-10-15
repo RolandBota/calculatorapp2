@@ -1,5 +1,5 @@
 
-name: Deploy on EC2
+name: Deploy2 on EC2
 on: push
 jobs:
   deploy:
